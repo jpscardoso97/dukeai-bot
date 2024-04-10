@@ -1,0 +1,32 @@
+.rcw-conversation-container > .rcw-header {
+  background-color: #012169;
+}
+.rcw-title {
+  color: white;
+}
+
+.rcw-send {
+    background: none;
+    content: none
+}
+
+.rcw-send::after {
+  background: none;
+  content: none
+}
+
+.rcw-launcher::after {
+  content: none
+}
+
+.rcw-launcher {
+  background-color: #287e7e;
+}
+
+.rcw-message > .rcw-response {
+  color: black;
+}
+
+.rcw-opened {
+  z-index: 9999;
+}
