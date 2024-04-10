@@ -1,0 +1,26 @@
+Noah Gift
+
+Adjunct Associate Professor in the Pratt School of Engineering
+Noah Gift lectures at MSDS, at Northwestern, Duke MIDS Graduate Data Science Program, and the Graduate Data Science program at UC Berkeley and the UC Davis Graduate School of Management MSBA program, and UNC Charlotte Data Science Initiative. He is teaching and designing graduate machine learning, A.I., Data Science courses, and consulting on Machine Learning and Cloud Architecture for students and faculty. These responsibilities include leading a multi-cloud certification initiative for students. 
+Noah is a Python Software Foundation Fellow.  He currently holds the following industry certifications for AWS:  AWS Subject Matter Expert (SME) on Machine Learning, AWS Certified Solutions Architect, and AWS Certified Machine Learning Specialist, AWS Certified Big Data Specialist, AWS Academy Accredited Instructor, AWS Faculty Ambassador.  He also is certified on both the Google and Azure platform: Google Certified Professional Cloud Architect, Certified Microsoft MTA on Python. He has published over 100 technical publications including multiple books on subjects ranging from Cloud Machine Learning to DevOps.  Publications appear in Forbes, IBM, Red Hat, Microsoft, O'Reilly, Pearson, Udacity, Coursera, datascience.com, and DataCamp.  Workshops and Talks around the world for organizations including NASA, PayPal, PyCon, Strata, O'Reilly Software Architecture Conference, and FooCamp. As an SME on Machine Learning for AWS, he helped created the AWS Machine Learning certification.
+He has worked in roles ranging from CTO, General Manager, Consulting CTO, Consulting Chief Data Scientist, and Cloud Architect. This experience has been with a wide variety of companies: ABC, Caltech, Sony Imageworks, Disney Feature Animation, Weta Digital, AT&T, Turner Studios, and Linden Lab, and industries:  Television, Film, Games, SaaS, Sports, Telecommunications. He has film credits in many major motion pictures for technical work, including Avatar, Spider-Man 3, and Superman Returns.
+He has been responsible for shipping many new products at multiple companies that generated millions of dollars of revenue and had a global scale. Currently, he is consulting startups and other companies, on Machine Learning, Cloud Architecture, and CTO level consulting as the founder of Pragmatic A.I. Labs.
+
+www.noahgift.com
+Linkedin:  https://www.linkedin.com/in/noahgift/
+
+Appointments and Affiliations
+Executive in Residence in the Social Science Research Institute
+
+Contact Information
+Email Address: noah.gift@duke.edu
+
+Education
+M.B.A. University of California, Davis, 2013
+M.S. California State University, Los Angeles, 2003
+
+Courses Taught
+IDS 793: Independent Study
+IDS 721: Data Analysis at Scale in Cloud
+IDS 706: Data Engineering Systems
+AIPI 561: Operationalizing AI

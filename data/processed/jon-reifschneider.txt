@@ -1,0 +1,28 @@
+Jon Reifschneider
+
+Director, AI for Product Innovation Master of Engineering Program
+Jon Reifschneider is the Executive Director of  Duke's Artificial Intelligence for Product Innovation Master's Program and teaches in it.
+Prior to joining the Duke faculty, Jon spent 15 years in management roles at data services and analytics companies. Most recently Jon ran the Weather Analytics division at the tech company DTN, where he and his team created predictive analytics systems that are now core to the daily operations of most of the largest transportation, aviation and energy utility organizations across the US and globally. As a member of the DTN executive team, he led his division through a period of substantial expansion and completed the successful sale of the company in 2017. 
+Jon holds a B.S. in Mechanical Engineering from the University of Virginia where he graduated first in his class, a Master of Engineering Management from Duke University, a M.S. in Analytics from Georgia Tech, and a Global MBA from EBS (Germany). He has lived, worked and studied in the United States, Luxembourg, Germany and India. 
+ 
+Appointments and Affiliations
+Executive in Residence in the Engineering Graduate and Professional Programs
+Executive Director of the Master of Engineering in Artificial Intelligence for Product Innovation Program
+
+Contact Information
+Email Address: jon.reifschneider@duke.edu
+
+Courses Taught
+MENG 552: Master of Engineering Supplemental Internship
+MENG 551: Master of Engineering Internship/Project Assessment
+MENG 550: Master of Engineering Internship/Project
+IDS 790: Special Topics in Interdisciplinary Data Science
+AIPI 591: Special Readings in AI for Product Innovation
+AIPI 590: Advanced Topics in AI for Product Innovation
+AIPI 549: Capstone Practicum 1
+AIPI 540: Deep Learning Applications
+AIPI 520: Modeling Process and Algorithms
+AIPI 510: Sourcing Data for Analytics
+AIPI 505: Mid-Program Residency
+AIPI 504: Introductory Residency
+AIPI 501: AIPI Seminar
