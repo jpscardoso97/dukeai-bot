@@ -5,8 +5,6 @@ from bs4 import BeautifulSoup
 import json
 import re
 
-data = ""
-
 pages = [
     'https://ai.meng.duke.edu/faculty/jon-reifschneider', 
     'https://ai.meng.duke.edu/faculty/brinnae-bent', 
@@ -49,6 +47,7 @@ pages = [
     "https://ai.meng.duke.edu/certificate",
     "https://ai.meng.duke.edu/faculty",
     "https://ai.meng.duke.edu/apply"
+]
 
 for page in pages:
     page = requests.get(page)

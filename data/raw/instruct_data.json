@@ -1,0 +1,220 @@
+{
+    "data": [
+        {
+            "input": "Who is the director of the program?",
+            "output": "Jon Reifschneider is the director of the Duke AI for Product Innovation Master of Engineering program."
+        },
+        {
+            "input": "What are the admission requirements for the Master of Engineering program?",
+            "output": "The admission requirements for the Duke AI for Product Innovation Master of Engineering program are: an undergraduate degree in science or engineering (or equivalent technical work experience), a minimum of one semester of programming, and two semesters of calculus. Prior coursework in probability, statistics, and linear algebra is highly encouraged but not required."
+        },
+        {
+            "input": "What is the duration of the on-campus Master of Engineering program?",
+            "output": "The on-campus Duke AI for Product Innovation Master of Engineering program can be completed in 12 months (accelerated option) or 16 months."
+        },
+        {
+            "input": "What are the core courses in the Master of Engineering program?",
+            "output": "The core courses in the Duke AI for Product Innovation Master of Engineering program include AIPI 510: Sourcing Data for Analytics, AIPI 520: Modeling Process & Algorithms, AIPI 530: Optimization in Practice, AIPI 540: Deep Learning Applications, AIPI 560: Legal, Societal & Ethical Implications of AI, and AIPI 561: Operationalizing AI (MLOps)."
+        },
+        {
+            "input": "What is the Graduate Certificate in AI Foundations for Product Innovation?",
+            "output": "The Graduate Certificate in AI Foundations for Product Innovation is a 4-course online program covering Python & Data Science Math Boot Camp, AIPI 510: Sourcing Data for Analytics, AIPI 520: Modeling Process & Algorithms, and AIPI 540: Building Products Using Deep Learning. It is designed for working professionals with a technical or scientific background."
+        },
+        {
+            "input": "How can I contact the Admissions team for the Duke AI programs?",
+            "output": "You can contact the Admissions & Recruiting team for the Duke AI programs at pratt_masters@duke.edu."
+        },
+        {
+            "input": "What are the two different tracks offered in the Master of Engineering program?",
+            "output": "The Duke AI for Product Innovation Master of Engineering program offers two optional tracks: the Machine Learning Engineering Track and the Data Science Track. The tracks differ primarily in the choice of elective courses."
+        },
+        {
+            "input": "What is the capstone project requirement in the Master of Engineering program?",
+            "output": "Students in the Duke AI for Product Innovation Master of Engineering program are required to complete AIPI 549: Capstone Project, where they work in teams of 3-5 to complete a Machine Learning/Artificial Intelligence project for a company sponsor around a real-world problem or opportunity."
+        },
+        {
+            "input": "What is the internship or project requirement in the Master of Engineering program?",
+            "output": "Students in the Duke AI for Product Innovation Master of Engineering program are required to complete MENG 550: Master of Engineering Internship or Project, which involves applying engineering principles to solving problems outside the classroom environment, defining problems and determining solutions, and gaining industry experience."
+        },
+        {
+            "input": "What is the 4+1: BSE+Master's option?",
+            "output": "The 4+1: BSE+Master's option allows Duke undergraduate students to earn both a Bachelor's degree and the Duke AI for Product Innovation Master of Engineering degree in just 5 years. Students can take graduate-level courses in their senior year and are eligible for the AIPI Duke 4+1 scholarship."
+        },
+        {
+            "input": "What is the MD-Master of Engineering in AI for Product Innovation Dual Degree?",
+            "output": "The MD-Master of Engineering in AI for Product Innovation Dual Degree allows medical students at Duke to complete the Master of Engineering degree during their Third Year. It is offered in partnership with Duke MEDx and includes a 20% scholarship opportunity."
+        },
+        {
+            "input": "What are the tuition costs for the on-campus Master of Engineering program?",
+            "output": "The tuition for the on-campus Duke AI for Product Innovation Master of Engineering program for the 2023-2024 academic year is $73,048 (for two semesters and a summer session). Additional fees include a health fee, health insurance, activity fees, and estimated living expenses."
+        },
+        {
+            "input": "What is the difference between the online and on-campus Master of Engineering program?",
+            "output": "The main difference between the online and on-campus Duke AI for Product Innovation Master of Engineering program is the delivery format and time to completion. The online program is part-time and takes 24 months to complete, while the on-campus program can be completed in 12 or 16 months. However, both programs have the same course requirements, faculty, and lead to the same Duke degree."
+        },
+        {
+            "input": "What are the core management courses in the Master of Engineering program?",
+            "output": "The core management courses in the Duke AI for Product Innovation Master of Engineering program are MENG 540: Management of High-Tech Industries and MENG 570: Business Fundamentals for Engineers."
+        },
+        {
+            "input": "What is the industry seminar series in the Master of Engineering program?",
+            "output": "The industry seminar series (AIPI 501) is a requirement in the Duke AI for Product Innovation Master of Engineering program where students attend weekly seminars featuring industry leaders discussing the opportunities, challenges, and learnings they have gained from applying AI to products and services in their industry."
+        },
+        {
+            "input": "What is the purpose of the Python & Data Science Math Boot Camp in the Master of Engineering program?",
+            "output": "The Python & Data Science Math Boot Camp (AIPI 503) is a 4-week online prerequisite course designed to help students build proficiency in using Python for data science and review foundational concepts in probability and statistics. It prepares students for the technical courses in the program."
+        },
+        {
+            "input": "What are the options for completing the internship or project requirement in the Master of Engineering program?",
+            "output": "For the internship or project requirement (MENG 550) in the Duke AI for Product Innovation Master of Engineering program, students can either complete an 8-12 week internship (minimum 320 hours) or a faculty-approved project that fulfills the same learning objectives as an internship."
+        },
+        {
+            "input": "What is the purpose of the MENG 551 course in the Master of Engineering program?",
+            "output": "MENG 551: Master of Engineering Internship or Project Assessment is the course where students prepare a substantive assessment of their internship or project experience through a written report and/or oral presentation, analyzing the problem or task conducted, challenges faced, solutions incorporated, workplace communication, and individual performance review."
+        },
+        {
+            "input": "What are the elective options in the Machine Learning Engineering Track?",
+            "output": "Some elective options in the Machine Learning Engineering Track of the Duke AI for Product Innovation Master of Engineering program include AIPI 590/IDS 721: Data Analysis at Scale in the Cloud, AIPI 531: Deep Reinforcement Learning Applications, ECE 564: Mobile App Development, EGRMGMT 590-01: Software, Solution & Enterprise Architecture, EGRMGMT 590-03: Software Business Management, CYBERSEC 511: Cybersecurity in the Software Development Lifecycle, CYBERSEC 520: Applying Machine Learning to Advance Cybersecurity, ECE 663: ML in Adversarial Settings, and EGRMGMT 575: Software Quality Management."
+        },
+        {
+            "input": "What are the elective options in the Data Science Track?",
+            "output": "Some elective options in the Data Science Track of the Duke AI for Product Innovation Master of Engineering program include BME 580: Biomedical Data Science, BIOSTAT 709: Observational Studies, EGRMGMT 590-05: Software Business Management, STA 640: Causal Inference, STA 663: Statistical Computation, ECE 682D: Probabilistic Machine Learning."
+        },
+        {
+            "input": "What is the application process for the Master of Engineering program?",
+            "output": "To apply for the Duke AI for Product Innovation Master of Engineering program, applicants need to submit an application fee, transcripts documenting their bachelor's degree, short answer essays, resume, three recommendations, a video introduction, and English language testing results (for international applicants). The GRE is optional for 2023 applicants."
+        },
+        {
+            "input": "What are the application deadlines for the Master of Engineering program?",
+            "output": "The Duke AI for Product Innovation Master of Engineering program has multiple application deadlines throughout the year for both the on-campus and online programs. For Fall entry, the deadlines are typically in January, March, and April, with decision notifications and reply dates following each deadline."
+        },
+        {
+            "input": "What is the financial aid available for the Master of Engineering program?",
+            "output": "Limited merit-based financial aid is available for highly qualified candidates in the Duke AI for Product Innovation Master of Engineering program through academic scholarships, with an emphasis on increasing diversity. U.S. Citizens or Permanent Residents who are underrepresented minorities may receive up to 50% tuition scholarship through the Diversity Scholarships."
+        },
+        {
+            "input": "What are the admission requirements for the Graduate Certificate program?",
+            "output": "The admission requirements for the Duke AI Foundations for Product Innovation Graduate Certificate program include a bachelor's degree in engineering or science, a minimum of one semester of programming, two semesters of calculus, a statement of purpose, resume, two recommendations, English language testing results for international applicants, and a video introduction."
+        },
+        {
+            "input": "What is the typical duration of the Graduate Certificate program?",
+            "output": "The typical duration of the Duke AI Foundations for Product Innovation Graduate Certificate program is 15 months, assuming students take one course per semester, including the summer semester."
+        },
+        {
+            "input": "What are the scholarship opportunities for the Graduate Certificate program?",
+            "output": "For students joining the Duke AI Foundations for Product Innovation Graduate Certificate program in the 2021-22 academic year, a limited number of merit-based scholarships are available which cover 20 percent of tuition expenses. All applicants are automatically considered for the available scholarships."
+        },
+        {
+            "input": "Can credits from the Graduate Certificate program be applied towards the Master of Engineering degree?",
+            "output": "Yes, students who enroll and successfully complete the requirements for the Duke AI Foundations for Product Innovation Graduate Certificate have the option to subsequently apply for the online Duke AI for Product Innovation Master of Engineering within four years, and use their certificate courses (12.0 course credits) towards the degree (30.0 course credits), as long as they earn a grade of B or better in each class."
+        },
+        {
+            "input": "What are the gainful employment disclosures for the Graduate Certificate program?",
+            "output": "The gainful employment disclosures for the Duke AI Foundations for Product Innovation Graduate Certificate program include information on program length, costs, student loans, job placement rates, and fields of employment for graduates. These disclosures are required by the U.S. Department of Education."
+        },
+        {
+            "input": "What are the on-campus residency requirements for the online Master of Engineering program?",
+            "output": "Students in the online Duke AI for Product Innovation Master of Engineering program are required to attend two one-week residencies on the Duke campus. These residencies allow students to meet peers and faculty in person."
+        },
+        {
+            "input": "What is the purpose of the AIPI 560 course in the Master of Engineering program?",
+            "output": "AIPI 560: Legal, Societal & Ethical Implications of AI is a core course in the Duke AI for Product Innovation Master of Engineering program that introduces students to the legal implications, ethical considerations, and organizational/societal implications of deploying AI within products and services, using case studies."
+        },
+        {
+            "input": "What is the purpose of the AIPI 561 course in the Master of Engineering program?",
+            "output": "AIPI 561: Operationalizing AI (MLOps) is a core course that introduces students to methods and best practices in deploying AI operationally within products and services, including technology and support infrastructure considerations, scaling, integration, monitoring, security, and failure resiliency."
+        },
+        {
+            "input": "What kind of prior programming experience is required for the Master of Engineering program?",
+            "output": "While extensive programming experience is not required for admission to the Duke AI for Product Innovation Master of Engineering program, applicants should have a minimum of one semester of programming experience in any language."
+        },
+        {
+            "input": "What opportunities are available for Duke undergraduates interested in the Master of Engineering program?",
+            "output": "Duke undergraduate students have the option to pursue the 4+1: BSE+Master's option, which allows them to earn both a Bachelor's degree and the Duke AI for Product Innovation Master of Engineering degree in just 5 years. They can take graduate-level courses in their senior year and are eligible for the AIPI Duke 4+1 scholarship."
+        },
+        {
+            "input": "What is the purpose of the Python & Data Science Math Boot Camp in the Graduate Certificate program?",
+            "output": "The Python & Data Science Math Boot Camp is a prerequisite course for the Duke AI Foundations for Product Innovation Graduate Certificate program, designed to help students build proficiency in using Python for data science and review foundational concepts in probability and statistics."
+        },
+        {
+            "input": "Can credits from the Graduate Certificate program be transferred to other degree programs?",
+            "output": "The credits earned from the Duke AI Foundations for Product Innovation Graduate Certificate program cannot be directly transferred to other degree programs at Duke or other institutions. However, certificate holders can apply to the online Duke AI for Product Innovation Master of Engineering program and use their certificate courses towards the degree requirements."
+        },
+        {
+            "input": "What is the time commitment required for the online Master of Engineering program?",
+            "output": "The online Duke AI for Product Innovation Master of Engineering program is a part-time program that typically takes 24 months to complete. Students take two courses per semester, along with attending two one-week residencies on campus."
+        },
+        {
+            "input": "What is the format of classes in the online Master of Engineering program?",
+            "output": "In the online Duke AI for Product Innovation Master of Engineering program, classes are conducted through a combination of live and recorded lectures, with online interaction with faculty and peers."
+        },
+        {
+            "input": "How does the academic advising work in the online Master of Engineering program?",
+            "output": "In the online Duke AI for Product Innovation Master of Engineering program, students have online interaction with a faculty advisor, as well as opportunities for in-person advising during the required on-campus residencies."
+        },
+        {
+            "input": "What career services are available for students in the Master of Engineering program?",
+            "output": "Students in the Duke AI for Product Innovation Master of Engineering program have access to career services professionals specialized in assisting engineering master's students, both for the on-campus and online programs."
+        },
+        {
+            "input": "What is the typical class size in the Master of Engineering program?",
+            "output": "The Duke AI for Product Innovation Master of Engineering program is designed to be a small, intimate, and immersive cohort experience, with a focus on individual advising and engagement with peers and faculty."
+        },
+        {
+            "input": "What is the role of the industry capstone project in the Master of Engineering program?",
+            "output": "The industry capstone project (AIPI 549) is a key component of the Duke AI for Product Innovation Master of Engineering program, where students work directly with industry partners to design solutions to real-world problems or opportunities faced by the sponsoring organizations."
+        },
+        {
+            "input": "What is the primary focus of the core curriculum in the Master of Engineering program?",
+            "output": "The core curriculum of the Duke AI for Product Innovation Master of Engineering program has a heavy emphasis on hands-on learning via real-world problems and projects in each course, preparing graduates who are ready to solve problems on the job starting on Day 1."
+        },
+        {
+            "input": "What is the purpose of the AIPI 501 Industry Seminar Series?",
+            "output": "The AIPI 501 Industry Seminar Series is a requirement in the Duke AI for Product Innovation Master of Engineering program where students attend weekly seminars featuring industry leaders discussing opportunities, challenges, and learnings from applying AI to products and services in their industries."
+        },
+        {
+            "input": "What are some of the industries that graduates of the program work in?",
+            "output": "Graduates from the Duke AI for Product Innovation Master of Engineering program go on to work in various industries such as technology, healthcare, energy, retail, transportation, finance, and more, depending on their interests and backgrounds."
+        },
+        {
+            "input": "What is the purpose of the MENG 540 course in the program?",
+            "output": "MENG 540: Management of High-Tech Industries is a core management course in the Duke AI for Product Innovation Master of Engineering program that covers decision-making in complex environments, project analysis, strategic decision-making, and management in high-tech firms."
+        },
+        {
+            "input": "How does the program prepare students for careers in AI product development?",
+            "output": "The Duke AI for Product Innovation Master of Engineering program prepares students for careers in AI product development through its industry-connected curriculum developed in collaboration with industry partners, hands-on projects, industry capstone, and internship or project experience."
+        },
+        {
+            "input": "What are the benefits of attending the on-campus residencies for online students?",
+            "output": "The on-campus residencies for online students in the Duke AI for Product Innovation Master of Engineering program provide opportunities to meet peers and faculty in person, engage in face-to-face discussions and networking, and experience the campus environment."
+        },
+        {
+            "input": "What is the role of the AIPI 530 course in the program?",
+            "output": "AIPI 530: Optimization in Practice is a core course that gives students the skills to mathematically formulate relevant business problems as optimization models, use software modeling syntax and solvers to generate optimum solutions, and interpret these solutions."
+        },
+        {
+            "input": "What type of background is required for the Data Science Track in the Master of Engineering program?",
+            "output": "The Data Science Track in the Duke AI for Product Innovation Master of Engineering program is recommended for students who have an educational or work background in a field of engineering, medicine, or science not directly related to computer science. The track allows them to merge their domain expertise with new skills in data analysis and machine learning."
+        },
+        {
+            "input": "What are some of the key areas covered in the AIPI 520 course?",
+            "output": "AIPI 520: Modeling Process & Algorithms is a core course that introduces students to the modeling process, best practices in model creation, interpretation, validation, selection of models for different uses, and covers both supervised and unsupervised machine learning algorithms."
+        },
+        {
+            "input": "How does the program incorporate ethics and societal implications of AI?",
+            "output": "The Duke AI for Product Innovation Master of Engineering program incorporates ethics and societal implications of AI through the core course AIPI 560: Legal, Societal & Ethical Implications of AI, which uses case studies to explore legal implications, ethical considerations, and organizational/societal impacts of deploying AI products."
+        },
+        {
+            "input": "What is the typical workload for students in the online Master of Engineering program?",
+            "output": "In the online Duke AI for Product Innovation Master of Engineering program, students typically take two courses per semester, which requires a significant time commitment for attending lectures, completing assignments, and engaging with peers and faculty."
+        },
+        {
+            "input": "What type of opportunities are available for collaboration and networking in the program?",
+            "output": "The Duke AI for Product Innovation Master of Engineering program offers opportunities for collaboration and networking through the cohort-based structure, team-based projects, industry capstone project, on-campus residencies, and the industry seminar series featuring guest speakers."
+        },
+        {
+            "input": "What is the purpose of the MENG 570 course in the program?",
+            "output": "MENG 570: Business Fundamentals for Engineers is a core management course in the Duke AI for Product Innovation Master of Engineering program that examines concepts in business fundamentals for successful technology-based companies, including business plan development, marketing, product development processes, intellectual property, accounting, finance, and operations."
+        }
+    ]
+}

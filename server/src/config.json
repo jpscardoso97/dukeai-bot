@@ -1,0 +1,6 @@
+{
+    "chromadb":{
+        "host":"http://108.59.83.119:8000"
+    },
+    "embModel": "mxbai-embed-large"
+}
