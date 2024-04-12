@@ -5,7 +5,7 @@ import config from "./config.json" assert { type: "json" };
 const collectionName = "aipi-bot";
 const llm = "phi";
 
-const ollama = new Ollama({ host: 'http://108.59.83.119:11434' })
+const ollama = new Ollama({ host: config.ollamaHost })
 
 export const search = async (query) => {
     const chroma = new ChromaClient({ path: config.chromadb.host });
@@ -22,12 +22,8 @@ export const search = async (query) => {
         Context: ${relevantDocs}`
 
     console.log('Model Query:', modelQuery);
-    const stream = await ollama.generate({ model: llm, prompt: modelQuery,stream: true });
+    const response = await ollama.generate({ model: llm, prompt: modelQuery });
+    const message = response.response
 
-    var response = ""
-    for await (const chunk of stream) {
-        response += chunk.response
-    }
-
-    return response;
+    return message;
 }

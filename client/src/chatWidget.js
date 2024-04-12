@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Widget, addResponseMessage } from 'react-chat-widget';
+import config from "./config.json";
 
 import 'react-chat-widget/lib/styles.css';
 import './styles.css';
@@ -15,33 +16,25 @@ export default class ChatWidget extends Component {
     componentDidMount() {
         const mes = 'Hello, welcome! How can I help you?'
         addResponseMessage(mes);
-        this.conversation.push(
-            {
-                role: "assistant",
-                content: mes
-            });
     }
 
     handleNewUserMessage = async newMessage => {
         console.log(`New message incoming! ${newMessage}`);
-        this.conversation.push(
-            {
-                role: "user",
-                content: newMessage
-            });
         try {
-            const response = await fetch('http://localhost:11434/api/chat', {
+            const response = await fetch(config.server_host+'/api/prompt', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
                 },
-                body: this.createRequestBody(),
+                body: JSON.stringify(
+                    {
+                        "query": newMessage,
+                    }
+                )
             });
             const json = await response.json();
             console.log('Success:', json);
-            const message = json.message;
-            this.conversation.push(message);
-            addResponseMessage(message.content);
+            addResponseMessage(json.response);
         } catch (error) {
             console.error('Error:', error);
         }
@@ -57,14 +50,4 @@ export default class ChatWidget extends Component {
             />
         );
     };
-
-    createRequestBody() {
-        return JSON.stringify(
-            {
-                "model": "phi",
-                "messages": this.conversation,
-                "stream": false
-            }
-        );
-    }
 };

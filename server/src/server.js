@@ -1,16 +1,22 @@
 import express from "express";
-import { search } from "./search_db.js";
+import cors from "cors";
+import { search } from "./query.js";
 
 const app = express();
 app.use(express.json());
+app.use(cors());
 
-app.post("/prompt", async (req, res) => {
+app.post("/api/prompt", async (req, res) => {
     const { query } = req.body;
     console.log('Request body:', req.body);
 
     const llm_response = await search(query);
 
-    return res.send(llm_response);
+    console.log('Response:', llm_response);
+
+    return res.send({
+        "response": llm_response
+    });
 });
 
 app.listen(3001, () => {

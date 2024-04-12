@@ -11,7 +11,7 @@ const collectionName = "aipi-bot";
 
 
 const chroma = new ChromaClient({ path: config.chromadb.host });
-const ollama = new Ollama({ host: 'http://108.59.83.119:11434' })
+const ollama = new Ollama({ host: config.ollamaHost })
 
 await chroma.deleteCollection({ name: collectionName });
 
