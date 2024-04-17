@@ -13,5 +13,7 @@ RUN npm ci
 # Copy the rest of the application code
 COPY ./src .
 
+EXPOSE 3001
+
 # Set the command to start the application
 CMD ["npm", "start"]
