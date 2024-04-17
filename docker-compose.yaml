@@ -27,7 +27,7 @@ services:
       context: ./server
       dockerfile: Dockerfile
     ports:
-      - "3001:3001"
+      - "3000:3000"
     depends_on:
       - ollama-phi
       - chromadb
