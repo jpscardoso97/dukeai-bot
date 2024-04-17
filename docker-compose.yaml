@@ -6,6 +6,13 @@ services:
     ports:
       - 11434:11434
     restart: always
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
   app:
     build:
       context: ./client
