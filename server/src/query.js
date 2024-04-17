@@ -13,17 +13,16 @@ export const search = async (query) => {
 
     const queryembed = (await ollama.embeddings({ model: config.embModel, prompt: query })).embedding;
 
-    const relevantDocs = (await collection.query({ queryEmbeddings: [queryembed], nResults: 2 })).documents[0].join("\n\n")
-    const modelQuery = `
-        You are a helpful and respectful assistant bot.
-        If you don't know the response, just say that you can't answer the question.
-        Keep your response concise.
-        ${query}
-        Context: ${relevantDocs}`
+    const relevantDocs = (await collection.query({ queryEmbeddings: [queryembed], nResults: 1})).documents[0].join("\n\n")
+    const prompt = `Instruction: Answer question directly. If you don not know the answer to a question, please DO NOT SHARE FALSE INFORMATION. \n ${relevantDocs}\n\n Question: ${query} \n Answer (max. 3 sentences):`
+    console.log('Prompt:\n', prompt);
+    
+    const response = await ollama.generate({ model: llm, prompt: prompt});
+    var message = response.response
+    console.log('Phi-2 response:\n', message);
 
-    console.log('Model Query:', modelQuery);
-    const response = await ollama.generate({ model: llm, prompt: modelQuery });
-    const message = response.response
+    // Keep only first 2 sentences to avoid showing hallucination
+    message = message.split(".").slice(0, 2).join(".");
 
     return message;
 }

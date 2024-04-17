@@ -1,7 +1,7 @@
 {
     "chromadb":{
-        "host":"http://34.41.208.102:8000"
+        "host":"http://chromadb:8000"
     },
-    "ollamaHost": "http://34.41.208.102:11434",
+    "ollamaHost": "http://ollama-phi:11434",
     "embModel": "mxbai-embed-large"
 }

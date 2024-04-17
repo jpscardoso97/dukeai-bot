@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What is the difference between the Machine Learning Engineering Track and the Data Science Track in the Master of Engineering program?",
+        "answer": "The Machine Learning Engineering Track focuses more on developing skills in building and deploying complex machine learning models, while the Data Science Track emphasizes skills in data analysis, statistical modeling, and applying machine learning techniques to solve domain-specific problems.",
+        "model_answer": "The main difference between the Machine Learning Engineering Track and the Data Science Track is their emphasis on different skills. The Machine Learning Engineering Track focuses more on engineering and algorithmic design, while the Data Science Track emphasizes data analysis and machine learning techniques. Both tracks offer a comprehensive understanding of AI and its applications in industry.",
+        "eval_score": 10
+    },
+    {
+        "question": "What is the purpose of the MENG 570 course in the Master of Engineering program?",
+        "answer": "MENG 570: Business Fundamentals for Engineers covers important business concepts that are essential for AI and technology product development, including business plan development, marketing, product management, intellectual property, finance, and operations.",
+        "model_answer": "The purpose of the MENG 570 course is to provide a solid foundation for successful technology-based companies by examining core business fundamentals such as marketing, product development processes, and accounting. It also covers topics like intellectual property, finance, and operations. Ultimately, the goal is to equip students with the skills and knowledge they need to develop and manage innovative products in today's fast-paced business environment.",
+        "eval_score": 10
+    },
+    {
+        "question": "Can students in the online Master of Engineering program participate in the industry capstone project?",
+        "answer": "Yes, students in the online Duke AI for Product Innovation Master of Engineering program can participate in the industry capstone project (AIPI 549). The capstone provides all students, whether on-campus or online, the opportunity to work directly with industry partners on real-world AI/ML challenges.",
+        "model_answer": "Yes, students in the online Master of Engineering program can participate in the industry capstone project. The program requires each student to work directly with an industry partner and design solutions to real-world problems or opportunities faced by the sponsoring organizations",
+        "eval_score": 10
+    },
+    {
+        "question": "What is the purpose of the EGR 590 Career Strategy and Design workshop in the on-campus Master of Engineering program?",
+        "answer": "The EGR 590 Career Strategy and Design workshop is a 6-week course that helps on-campus Master of Engineering students develop essential professional skills and prepare for the job market, including personal branding, resume development, interview techniques, and navigating the engineering career landscape.",
+        "model_answer": "The EGR 590 Career Strategy and Design workshop provides engineering master's students with practical tools to develop a comprehensive career strategy that aligns with their goals and values. The workshop emphasizes the importance of leveraging one's strengths and interests to create a personalized plan for professional development, including networking opportunities, job search strategies, and interview skills",
+        "eval_score": 10
+    },
+    {
+        "question": "Can credits from the Graduate Certificate program be used towards a degree at another university?",
+        "answer": "No, the credits earned from the Duke AI Foundations for Product Innovation Graduate Certificate program cannot be directly transferred to degree programs at other universities. The certificate credits are only applicable towards the Duke AI for Product Innovation Master of Engineering program.",
+        "model_answer": "I'm sorry, as an AI language model, I don't have access to any specific information about which universities recognize Duke AI Foundations for Product Innovation's graduate certificate courses. However, it is likely that the courses will count towards the overall requirements of a master's degree program in engineering or related field at another institution",
+        "eval_score": 5
+    },
+    {
+        "question": "What are some of the industry partners that collaborate with the Master of Engineering program?",
+        "answer": "The Duke AI for Product Innovation Master of Engineering program has collaborated with a variety of industry partners, including technology companies, healthcare organizations, financial firms, and manufacturing companies, to provide real-world industry projects and internship opportunities for students.",
+        "model_answer": "Some of the industry partners that collaborate with the Master of Engineering program include Apple, Amazon, Google, and IBM. These companies provide real-world problems or opportunities to the students, who work directly with them to design solutions using artificial intelligence",
+        "eval_score": 5
+    },
+    {
+        "question": "How does the program support international students in the online Master of Engineering program?",
+        "answer": "For international students in the online Duke AI for Product Innovation Master of Engineering program, the program provides support through virtual advising, flexible scheduling to accommodate time zone differences, and assistance navigating any visa or immigration requirements. However, the standalone online certificate program does not qualify for US visa sponsorship.",
+        "model_answer": "The program supports international students by providing online interaction with a faculty advisor and opportunities for in-person advising during the required on-campus residencies. Additionally, there are resources available to assist with cultural adjustment and language barriers",
+        "eval_score": 10
+    },
+    {
+        "question": "What is the role of the MENG 551 course in the Master of Engineering program?",
+        "answer": "MENG 551: Master of Engineering Internship or Project Assessment is the course where students reflect on and analyze their internship or industry project experience, preparing a written report and/or oral presentation that demonstrates their ability to apply engineering principles to real-world problems.",
+        "model_answer": "The MENG 551 course in the Master of Engineering program allows students to reflect on their internship or project experience by preparing a report and/or presentation that analyzes their problem-solving, communication skills, and personal development in the workplace. It provides an opportunity for students to showcase their achievements and learn from their experiences while gaining valuable feedback from faculty members",
+        "eval_score": 10
+    },
+    {
+        "question": "Can students in the Master of Engineering program specialize in a particular domain or industry?",
+        "answer": "While the core curriculum of the Duke AI for Product Innovation Master of Engineering program focuses on developing general AI/ML product development skills, students have the flexibility to specialize through their choice of elective courses. For example, students can choose a specialization in healthcare, finance, manufacturing, or other domains of interest.",
+        "model_answer": "Yes, students in the Master of Engineering program can choose to specialize in a particular domain or industry during their studies. This allows them to gain expertise and knowledge specific to a certain field while also developing critical thinking skills that are applicable across various industries",
+        "eval_score": 10
+    },
+    {
+        "question": "What type of support is available for students seeking internships or industry projects?",
+        "answer": "The Duke AI for Product Innovation Master of Engineering program has dedicated career services professionals who assist students in finding and securing internship and industry project opportunities that align with their career goals. This includes helping with networking, application materials, and interview preparation.",
+        "model_answer": "The Duke AI for Product Innovation Master of Engineering program offers numerous opportunities for collaboration and networking through its cohort-based structure, team-based projects, and on-campus residencies. In addition, the program features an industry seminar series with guest speakers to provide insights into various industries' challenges and opportunities",
+        "eval_score": 5
+    },
+    {
+        "question": "How do the on-campus and online Master of Engineering programs differ in terms of the industry seminar series?",
+        "answer": "For on-campus students, the AIPI 501 Industry Seminar Series is a weekly in-person event where they can interact directly with industry speakers. Online students participate in the seminar series virtually, with recorded sessions and opportunities for online discussion and Q&A with the speakers.",
+        "model_answer": "The on-campus and online Master of Engineering programs offer a similar industry seminar series where students can network, learn about current issues and topics related to engineering, and gain insights from experts in the field. However, there may be different opportunities for networking or attending events depending on whether you are on campus or taking the program online",
+        "eval_score": 10
+    },
+    {
+        "question": "What is the purpose of the AIPI 503 Python & Data Science Math Boot Camp in the Graduate Certificate program?",
+        "answer": "The AIPI 503 Python & Data Science Math Boot Camp is a prerequisite course for the Duke AI Foundations for Product Innovation Graduate Certificate program, designed to ensure that all students have a solid foundation in programming with Python and the key mathematical concepts required for data science and machine learning.",
+        "model_answer": "The AIPI 503 Python & Data Science Math Boot Camp is a prerequisite course for the Duke AI Foundations for Product Innovation Graduate Certificate program, designed to help students build proficiency in using Python for data science and review foundational concepts in probability and statistics. It serves as an introduction to various aspects of programming and data analysis in Python, providing participants with essential skills necessary for success in the graduate certificate program",
+        "eval_score": 10
+    },
+    {
+        "question": "Can students in the Master of Engineering program choose to focus on a particular machine learning technique or application area?",
+        "answer": "Yes, in addition to the Machine Learning Engineering and Data Science tracks, students in the Duke AI for Product Innovation Master of Engineering program can customize their curriculum by selecting technical electives that allow them to dive deeper into specific machine learning methodologies, such as deep learning, reinforcement learning, or adversarial machine learning, as well as application domains like healthcare, finance, or energy.",
+        "model_answer": "Yes, students in the Master of Engineering program can choose to specialize in a particular machine learning technique or application area as part of their coursework and project work. This allows them to develop expertise in that area while also gaining a broad understanding of other techniques and areas within the field",
+        "eval_score": 10
+    },
+    {
+        "question": "How does the program support the professional development of online Master of Engineering students?",
+        "answer": "In addition to the virtual industry seminar series, online students in the Duke AI for Product Innovation Master of Engineering program receive personalized career advising, access to job search resources, and opportunities to participate in virtual career fairs and networking events. The required on-campus residencies also provide valuable in-person professional development opportunities.",
+        "model_answer": "The online Duke AI for Product Innovation Master of Engineering program supports the professional development of online Master of Engineering students through regular communication with their faculty advisor, providing opportunities to learn from industry experts during on-campus residencies and access to a network of professionals in the field. Additionally, the program provides a hands-on experience with artificial intelligence tools that can be applied to real-world business problems",
+        "eval_score": 10
+    },
+    {
+        "question": "What are the opportunities for Duke undergraduate students to get involved with the Master of Engineering program?",
+        "answer": "Duke undergraduate students have several options to engage with the Duke AI for Product Innovation Master of Engineering program, including the 4+1: BSE+Master's accelerated pathway, which allows them to earn both a bachelor's and master's degree in 5 years. Undergrads can also explore research or project-based opportunities with the program's faculty and industry partners.",
+        "model_answer": "Duke undergraduate students who have completed at least one BSE major can pursue the 4+1 option, which allows them to earn both a Bachelor's degree and the Duke AI for Product Innovation Master of Engineering in 5 years. They can take graduate-level courses in their senior year and are eligible for the AIPI Duke 4+1 scholarship",
+        "eval_score": 10
+    }
+]
